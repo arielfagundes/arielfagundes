@@ -22,7 +22,7 @@ I'm currently diving into fullstack development, learning how to build both the 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 
 
@@ -39,12 +39,9 @@ Backend: Node.js, TypeScript, SQL and Databases
 Tools: Git, GitHub, and Docker
 Extras: APIs, Cloud basics and some DevOps practices  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>  
 
